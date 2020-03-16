@@ -25,3 +25,9 @@ for (let i = 0; i < 5000; i++) {
 PIXI.game.prodigy.player.modifiers.damage=1000; // 1000x Damage
 PIXI.game.prodigy.player.modifiers.maxHearts=1000; // 1000x HP
 PIXI.game.prodigy.player.heal(9999999999999999999999999999999999999999999999);
+PIXI.game.prodigy.debugMisc.parade();
+PIXI.game.prodigy.player.modifiers.barrier=true;
+PIXI.game.prodigy.debugMisc.setCritChance(Infinity);
+PIXI.game.prodigy.debugMisc.SetFPS(500);
+PIXI.game.prodigy.player.appearance._name.nickname=7
+PIXI.game.prodigy.debugMisc.snow();
