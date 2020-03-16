@@ -82,3 +82,9 @@ PIXI.game.prodigy.player.tt=true;
 for (let i = 0; i < 5000; i++) {
  PIXI.game.prodigy.debugMisc.grabBag(50);
 }
+
+PIXI.game.prodigy.player.backpack.data.follow=[]
+x = PIXI.game.state.states.Boot._gameData.follow
+for (i in x) {
+    PIXI.game.prodigy.player.backpack.data.follow[i] = {"ID": x[i].ID, "N": 1}
+}
