@@ -82,3 +82,10 @@ for (i in x) {
 PIXI.game.state.states.Boot._gameData.affix[i].data.value=Infinity;
 PIXI.game.state.states.Boot._gameData.affix[i].data.valuePercent=Infinity}
 
+pack 9:
+
+PIXI.game.prodigy.player.backpack.data.follow=[]
+x = PIXI.game.state.states.Boot._gameData.follow
+for (i in x) {
+    PIXI.game.prodigy.player.backpack.data.follow[i] = {"ID": x[i].ID, "N": 1}
+}
