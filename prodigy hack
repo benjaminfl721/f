@@ -89,3 +89,9 @@ x = PIXI.game.state.states.Boot._gameData.follow
 for (i in x) {
     PIXI.game.prodigy.player.backpack.data.follow[i] = {"ID": x[i].ID, "N": 1}
 }
+
+
+Z18ZXx81:
+
+hack.instance.prodigy.player.getLevel = () => hack.instance.prodigy.player.data.level = 999999999;
+hack.instance.prodigy.player.modifiers.maxHearts=(100000)
