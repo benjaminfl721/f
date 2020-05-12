@@ -90,8 +90,8 @@ for (i in x) {
     PIXI.game.prodigy.player.backpack.data.follow[i] = {"ID": x[i].ID, "N": 1}
 }
 
-
-Z18ZXx81: | altz41: bobby fancywoman | alts1: felix the W12-4RD | alta88: aaron the W12-4RD |
+m
+Z18ZXx81: | altz41: bobby fancywoman | alts1: felix the W12-4RD | alta88: ahmed thunderstaff |
 
 hack.instance.prodigy.player.getLevel = () => hack.instance.prodigy.player.data.level = 999999999;
 hack.instance.prodigy.player.modifiers.maxHearts=(100000)
