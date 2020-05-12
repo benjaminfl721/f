@@ -95,3 +95,6 @@ Z18ZXx81:  altz41
 
 hack.instance.prodigy.player.getLevel = () => hack.instance.prodigy.player.data.level = 999999999;
 hack.instance.prodigy.player.modifiers.maxHearts=(100000)
+
+bfwaltz:
+hack.instance.prodigy.player.getLevel = () => hack.instance.prodigy.player.data.level = 999999999999999999999999999999999999999999999999999999999999999999999;
