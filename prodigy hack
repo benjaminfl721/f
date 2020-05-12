@@ -91,7 +91,7 @@ for (i in x) {
 }
 
 
-Z18ZXx81: | altz41: bobby fancywoman | alts1: felix the W12-4RD | 
+Z18ZXx81: | altz41: bobby fancywoman | alts1: felix the W12-4RD | alta88: aaron the W12-4RD |
 
 hack.instance.prodigy.player.getLevel = () => hack.instance.prodigy.player.data.level = 999999999;
 hack.instance.prodigy.player.modifiers.maxHearts=(100000)
